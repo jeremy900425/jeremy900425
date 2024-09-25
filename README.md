@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jeremy900425@gmail.com**
 
-- 📄 Know about my experiences [http://www.cs.nccu.edu.tw/~ge11238/index.html](http://www.cs.nccu.edu.tw/~ge11238/index.html](https://chouchenyudepersonalwebsite.webflow.io/))
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
