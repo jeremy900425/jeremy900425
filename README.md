@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy Chou</h1>
-<h3 align="center">I'm a 22-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.</h3>
+<h3 align="center">I'm a 23-year-old computer science student passionate about technology, programming, and innovation. Currently, I'm based in Taipei/Taiwan, where I'm pursuing my degree and exploring the vast world of software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremy900425&label=Profile%20views&color=0e75b6&style=flat" alt="jeremy900425" /> </p>
 
