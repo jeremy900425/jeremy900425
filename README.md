@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jeremy900425@gmail.com**
 
-- 📄 Know about my experiences
+- 📄 Know about my experiences https://chouchenyudepersonalwebsite.webflow.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
