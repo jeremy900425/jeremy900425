@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremy900425" alt="jeremy900425" /></a> </p>
 
-- 🔭 I’m currently working on **Cathay Financial Holdings and Cram School.**
+- 🔭 I’m currently working on **HP Inc. and NCCU Programming Teaching Assistant and Cram School teacher.**
 
 - 🌱 I’m currently learning **Machine Learning,Backend technology.**
 
